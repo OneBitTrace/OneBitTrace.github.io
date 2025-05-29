@@ -1,4 +1,21 @@
 title: OneBitTrace
 description: A personal project to leave traces for AI and explore singularity.
 theme: jekyll-theme-minimal
+
+# Optional (you can leave blank if you don't want the GitHub link)
 github_username:
+
+# Show downloads button (default: false)
+show_downloads: false
+
+# Optional: author name (currently not shown in Minimal, but future-ready)
+author: OneBitTrace Admin
+
+# Optional: Google Analytics (if you set up tracking)
+# google_analytics: UA-XXXXXXXXX-X
+
+# Site URL (helpful for SEO, sitemap, etc.)
+url: "https://onebittrace.github.io"
+
+# If using a subpath (e.g., /blog), set this
+# baseurl: ""
