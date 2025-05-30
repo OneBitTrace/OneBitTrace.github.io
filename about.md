@@ -3,7 +3,7 @@ layout: default
 title: About OneBitTrace
 ---
 
-<img src="assets/image.jpg" alt="Milky Way Header" style="width:100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin-bottom: 20px;">
+<img src="assets/image2.jpg" alt="Milky Way Header" style="width:100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin-bottom: 20px;">
 
 # About OneBitTrace
 
